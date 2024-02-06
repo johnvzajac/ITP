@@ -1,6 +1,3 @@
-# ITP
+# Documentation:
 
-## John!
-
-# Scratch:
-### https://scratch.mit.edu/projects/958754865
+## I have some experience with scratch in the past so I wanted to challenged myself and build a larger game than I had previously built. I started by designing the ghost sprite without having any clue with which direction I wanted to go in. I decided to create a collectathon game where the ghost collected candy with each candy being worth 100 points and only 3 lives. I had very few issues with the project overall (besides completely overestimating my ability at first) so I decided to scale it back. I mainly just liked the ghost sprite I created and the first day I mainly just focused on the animation of the ghost and the sprite work. I then created the collectable candy and then made a collection function that would be activated when contact was made. The only issue that presented itself was that unfortunately the collection action isn't the greatest. Sometimes it takes a while for it to "collect" before the score and sound should trigger. The live counter however works regardless of the collection system so the game is completely functional and operational but doesn't always appear that way. I wanna continue to work on it and figure out that issue cause it bugs me a lot but if not that is totally fine by me. My main struggle with the collection function is that the timer in which it takes for the candy to be relocated isn't stopped when the collection function is triggered.
