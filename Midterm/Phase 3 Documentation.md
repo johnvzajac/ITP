@@ -1,0 +1,3 @@
+# Phase 3 Documentation:
+
+## Phase 2 I was happy with and found not as difficult and challenging but phase 3 I quickly realized some issues I would have to approach with for this phase to function. For the sword to properly scale, I would have to make sure that the phase 2 code was as simple as possible which caused me to revisit it quite a few times for as my previous code was devoid of a few of the triangle functions instead of the latest version. I realized this became a lot more of a complicated mess when implementing the drawObject and push and pull functions. Having to rebuild the phase2 to be compatible with the phase3 requirements, I believe that both codes are as simple and solid as possible.
