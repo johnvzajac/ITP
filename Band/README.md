@@ -1,0 +1,3 @@
+# Documentation:
+
+## Wowie! So obvi we ran into a bit snag with the titling of the html file being "INDEX.HTML" rather than "index.html". As well I caused a few hiccups on the way with my confusion between HTML4 and HTML5 not having the greatest grasp of the changes throughout the updates. Jackson did great he created the narrative and did beautiful he was like Picasso with an html file. I created the CSS file which I say is gorgeous beyond belief with the implementation of the images and such. Obviously we ran into some snags creating our bassoon website but in the end it worked out some how and we emerged victorious.
